@@ -1,3 +1,4 @@
-package PACKAGE_NAME;public class main {
-  String test = "";
+
+public class main {
+    String test = "toto";
 }
